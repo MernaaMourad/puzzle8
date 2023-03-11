@@ -9,4 +9,4 @@ space may be swapped with a component in one of the four directions ‘Up’, �
 ‘Right’, one move at a time. The cost of moving from one configuration of the board to
 another is the same and equal to one. Thus, the total cost of path is equal to the number of
 moves made from the initial state to the goal state.
-This implemented as BFS DFS and A* (euclidean distance-manhattan distance) search
+This is implemented in BFS DFS and A* (euclidean distance-manhattan distance) search algorithms.
